@@ -50,5 +50,22 @@ nav a:hover{
 	right: 20px;
 }
 
+.hal-utama{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    padding-top: 100px;
+}
 
-
+.namaanimasi{
+	font-size: 36px;
+    font-weight: bold;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: typewriter 3s steps(30, end) forwards;
+}
