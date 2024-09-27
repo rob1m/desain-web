@@ -87,6 +87,14 @@ nav a:hover{
 	margin-top: 20px;
 }
 
+.foto-profil img{
+	width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #6d6455;
+}
+
 .medsos-icon{
 	margin-top: 20px;
     display: flex;
