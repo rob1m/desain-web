@@ -87,14 +87,6 @@ nav a:hover{
 	margin-top: 20px;
 }
 
-.profilganteng{
-	width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 4px solid #6d6455;
-}
-
 .medsos-icon{
 	margin-top: 20px;
     display: flex;
@@ -110,4 +102,14 @@ nav a:hover{
 .medsos:hover{
 	color: #fff;
     transform: scale(1.2);
+}
+
+.tentangku{
+	background-color: #f9f5e5;
+    color: #444;
+}
+
+.kontakku{
+	background-color: #d3c7a1;
+    color: #444;
 }
