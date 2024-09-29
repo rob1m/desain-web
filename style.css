@@ -83,6 +83,14 @@ nav a:hover{
     border: 4px solid #6d6455;
 }
 
+.profilku img{
+	width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #6d6455;
+}
+
 .awalprofil{
 	margin-top: 20px;
 }
